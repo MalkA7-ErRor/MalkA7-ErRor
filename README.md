@@ -1,16 +1,15 @@
-## Hi there 👋
+Saya adalah seorang pembelajar yang
+memiliki visi besar untuk membangun
+perusahaan teknologi di masa depan. 
 
-<!--
-**MalkA7-ErRor/MalkA7-ErRor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fokus saya saat ini:
+- 🚀 Belajar dasar-dasar pengembangan
+web (HTML/CSS/JS).
+- 🎮 Mengembangkan proyek game
+berbasis web.
+- 💡 Membangun pola pikir
+kepemimpinan dan efisiensi.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya percaya bahwa setiap baris kode
+adalah langkah menuju inovasi. Mari 
+terhubung dan belajar bersama!
